@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/markomannder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markomannder" height="30" width="40" /></a>
 <a href="https://instagram.com/markomannder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markomannder" height="30" width="40" /></a>
-<h3 align="left">Join The Tlacuaches Ingeniebrios community:</h3>
+<h3 align="left">🦝 Join The Tlacuaches Ingeniebrios community:</h3>
 <a href="https://discord.gg/https://discord.gg/tVm7gp8zW9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tVm7gp8zW9" height="30" width="40" /></a>
 </p>
 
