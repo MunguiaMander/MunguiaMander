@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Marco</h1>
+<h1 align="center">Hi, I'm Marco, 🧛🏻 </h1>
 <h3 align="center">A passionate student of science and systems from Guatemala</h3>
 
 <p align="left"> <a href="https://twitter.com/markomannder" target="blank"><img src="https://img.shields.io/twitter/follow/markomannder?logo=twitter&style=for-the-badge" alt="markomannder" /></a> </p>
 
-- 📫 How to reach me **marcomunguiaalva@gmail.com**
-
-- ⚡ Other interests **Mathematics, Anime and FPS Games**
+- ⚡ Interests **Mathematics, Anime and FPS Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
